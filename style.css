@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #48ff00;
+}
+
+main{
+    display: flex;
+    align-items: center;
+}
+
+div{
+    background-color: #00a2ff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 20rem;
+    height: 25rem;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #fff;
+}
+
+
+h1{
+    color: #00bfff;
+    align-items: center;
+    font-size: 5rem;
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+h2{
+    margin: 2%;
+}
+
+p{
+    margin: 2%;
+}
